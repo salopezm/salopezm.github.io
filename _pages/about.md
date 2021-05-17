@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-#Mi trayectoria académica
+
+Mi trayectoria académica
+======
 
 Soy Alejandro, actualmente me encuentro estudiando Maestría en Ciencias de la Información.
 
