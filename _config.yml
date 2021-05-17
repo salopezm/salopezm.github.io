@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Samuel Alejandro López"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Mi biografía en sección lateral izquierda"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -178,7 +178,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  publicaciones:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -221,7 +221,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: publicaciones
     values:
       layout: single
       author_profile: true
